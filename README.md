@@ -35,4 +35,4 @@ This portfolio reflects John Doe's "Visual storytelling that commands attention"
 
 ---
 
-*Generated as a sample professional portfolio project.*
+*This a sample professional portfolio project.*
